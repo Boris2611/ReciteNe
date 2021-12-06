@@ -274,7 +274,7 @@ p {
 .ocena {
   float: right;
   padding-right: 40px;
-  padding-top: 30px;
+  padding-top: 0px;
 }
 
 
@@ -435,7 +435,7 @@ p {
   .naslov {
     font-size: 25px;
     padding-right: 90px;
-    padding-top: 20px;
+    padding-top: 0px;
   }
 
   .logo1 {
